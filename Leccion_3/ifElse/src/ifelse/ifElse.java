@@ -12,7 +12,7 @@ public class ifElse {
 		} else if (x == 30) {
 		System.out.print("X igual a 30\n");
 		} else {
-		System.out.print("X no es igual ni a 10, ni 20 ni 30\n");
+		System.out.print("X no es igual ni a 10, ni 20 ni 305\n");
 		}
 
 
